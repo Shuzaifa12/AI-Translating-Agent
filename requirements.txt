@@ -1,4 +1,4 @@
-agents
+openai-agents
 openai
 dotenv
 asyncio
