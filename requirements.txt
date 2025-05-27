@@ -1,9 +1,5 @@
-openai_agents
+streamlit
 openai
-dotenv
-asyncio
-Agent
-OpenAIChatCompletionsModel
-RunConfig
-Runner
-AsyncOpenAI
+python-dotenv
+crewai
+langgraph
