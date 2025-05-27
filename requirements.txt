@@ -1,5 +1,4 @@
-openai-agents
-openai
 streamlit
+openai
+openai-agents
 python-dotenv
-git+https://github.com/openai/openai-agents.git
